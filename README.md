@@ -36,9 +36,8 @@ La narrativa es no lineal, lo que invita a teorías y análisis por parte de la 
 | **Jack Walten** | Figura central del misterio; su desaparición desencadena la historia. |
 | **Rosemary Walten** | Esposa de Jack; su destino es clave en la narrativa. |
 | **Bon** | Animatrónico principal de Bon’s Burgers. |
-| **Sha** | Animatrónico con forma de tiburón. |
+| **Sha** | Animatrónico con forma de oveja. |
 | **Boozoo** | Animatrónico payaso de Boozoo’s Party Room. |
-| **Billy** | Animatrónico con apariencia de cabra. |
 
 ---
 
